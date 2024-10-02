@@ -1,0 +1,1 @@
+import{k as t,c as a,e as c,f as s,X as n}from"./BKFkcy19.js";const o={},r={class:"table-wrapper"};function _(e,d){return a(),c("div",r,[s("table",null,[n(e.$slots,"default",{},void 0,!0)])])}const f=t(o,[["render",_],["__scopeId","data-v-ab1dca5c"]]);export{f as default};
