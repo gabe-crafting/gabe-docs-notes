@@ -1,0 +1,1 @@
+import{k as t,c,e as n,X as o}from"./ClADyxnS.js";const r={};function s(e,_){return c(),n("th",null,[o(e.$slots,"default",{},void 0,!0)])}const d=t(r,[["render",s],["__scopeId","data-v-cfb8c2cb"]]);export{d as default};

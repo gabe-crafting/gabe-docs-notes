@@ -1,1 +1,0 @@
-import{k as n,c as t,e as o,X as c}from"./BKFkcy19.js";const r={};function s(e,_){return t(),o("code",null,[c(e.$slots,"default",{},void 0,!0)])}const d=n(r,[["render",s],["__scopeId","data-v-9b46e5f8"]]);export{d as default};
